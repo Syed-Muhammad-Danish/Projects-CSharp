@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarRentalGUI.AddCar">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAACAAABAQAASAAABCIAAggAAAEAAAAAABAAI=</HashCode>
+      <FileName>AddCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.AdminMenu">
+    <Position X="13.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAgAAQAACABABAACgCBIgCaAAACEAAAAAAAABACYoA=</HashCode>
+      <FileName>AdminMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.CustomerMenu">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAAAACAgABAAAACAIASCAAAAQICAAAEAABAAQAA=</HashCode>
+      <FileName>CustomerMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.FormMain">
+    <Position X="7.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABEAAACFAAACAAABBAgAgAAAAAEAAAA=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.Program">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.SignIn">
+    <Position X="15" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hQiAAAAQASAAABAAAACAAJACAAAAAABAAgAAAAIAAAA=</HashCode>
+      <FileName>SignIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.SignUp">
+    <Position X="3.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAACAAABAAIACAAAASAACIAAAAEEAARAAAAAA=</HashCode>
+      <FileName>SignUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.BL.Booking" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAAEAAAAAAAAAAAEAAAAAAACABAAAgAUAAABA=</HashCode>
+      <FileName>BL\Booking.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CarRentalGUI.BL.Bus">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Bus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.BL.Car">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAEAEgABAJAACACBAAAAAQAABAAAAAQAAAAAAAAI=</HashCode>
+      <FileName>BL\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.BL.Customer">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAIEAAACAAAQAAAAEAA=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.BL.Maintenance">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>BL\Maintenance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.BL.MUser">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEQAAABEAAAAAAAgCAAAAAgAAEAA=</HashCode>
+      <FileName>BL\MUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.DL.BookingDL">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAEAAAAABACAAAAACAAAAAgQAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>DL\BookingDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.DL.CarDL">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABCAAAAAgAAAAAAAiAAAAAABBAAAAABBAEQAAA=</HashCode>
+      <FileName>DL\CarDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.DL.CustomerDL">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAACAIAAAAgBgAACAAAAAAAAAAAAAAAAEgAA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.DL.MUserDL">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAERI=</HashCode>
+      <FileName>DL\MUserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.Forms.EditCar">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAQAASAAABCIAAgAAAAEABAAAABIAI=</HashCode>
+      <FileName>Forms\EditCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.Forms.FrmAddMaintenance">
+    <Position X="18.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAIABAEQASAgAQCAAgoAAAAAEgAAAABAAA=</HashCode>
+      <FileName>Forms\FrmAddMaintenance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.Forms.FrmAddUser">
+    <Position X="16.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAEAAACAIABAQBQGAAAACAEAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Forms\FrmAddUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.Forms.FrmEndBooking">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAQAgCAQABkBAACAAAACACAAABAAAQBAAAAQAAA=</HashCode>
+      <FileName>Forms\FrmEndBooking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.Forms.FrmStartBooking">
+    <Position X="0.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQIASYIABEAAASBEAACAAAgABCSAAACAAIAAAA=</HashCode>
+      <FileName>Forms\FrmStartBooking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.Forms.FrmUpdateRecord">
+    <Position X="11.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAIBCYAABAQAASAAAACAAAgAAGgIAAAAAAAAAA=</HashCode>
+      <FileName>Forms\FrmUpdateRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.Forms.FrmViewBooking">
+    <Position X="9.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABBCBAABAAAASAAAACAAAgAAgAAgAAAAAAAAA=</HashCode>
+      <FileName>Forms\FrmViewBooking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.Forms.FrmViewRecord">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAIACYAABAAAASAAAACAAAgAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\FrmViewRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.Forms.ViewCar">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQBACAAABAAAESAAAACAAEgAAACAAAAAAQAAAA=</HashCode>
+      <FileName>Forms\ViewCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CarRentalGUI.BL.IBooking">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\IBooking.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

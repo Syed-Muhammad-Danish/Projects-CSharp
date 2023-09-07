@@ -1,0 +1,56 @@
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.csproj.AssemblyReference.cache
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Properties.Resources.resources
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.csproj.GenerateResource.cache
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.AssemblyInfoInputs.cache
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.AssemblyInfo.cs
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.csproj.CoreCompileInputs.cache
+C:\Users\faiza\Desktop\TankBusters\TankBusters\bin\Debug\net6.0-windows\TankBusters.exe
+C:\Users\faiza\Desktop\TankBusters\TankBusters\bin\Debug\net6.0-windows\TankBusters.deps.json
+C:\Users\faiza\Desktop\TankBusters\TankBusters\bin\Debug\net6.0-windows\TankBusters.runtimeconfig.json
+C:\Users\faiza\Desktop\TankBusters\TankBusters\bin\Debug\net6.0-windows\TankBusters.dll
+C:\Users\faiza\Desktop\TankBusters\TankBusters\bin\Debug\net6.0-windows\TankBusters.pdb
+C:\Users\faiza\Desktop\TankBusters\TankBusters\bin\Debug\net6.0-windows\EZInput.dll
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.csproj.CopyComplete
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.dll
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\refint\TankBusters.dll
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.pdb
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.genruntimeconfig.cache
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\ref\TankBusters.dll
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Loading.resources
+C:\Users\faiza\Desktop\TankBusters\TankBusters\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\faiza\Desktop\TankBusters\TankBusters\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\faiza\Desktop\TankBusters\TankBusters\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Form2.resources
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Main.resources
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Form3.resources
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Ending.resources
+C:\Users\faiza\Desktop\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Options.resources
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\bin\Debug\net6.0-windows\TankBusters.exe
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\bin\Debug\net6.0-windows\TankBusters.deps.json
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\bin\Debug\net6.0-windows\TankBusters.runtimeconfig.json
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\bin\Debug\net6.0-windows\TankBusters.dll
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\bin\Debug\net6.0-windows\TankBusters.pdb
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\bin\Debug\net6.0-windows\EZInput.dll
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.csproj.AssemblyReference.cache
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Ending.resources
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Form2.resources
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Form3.resources
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Loading.resources
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Main.resources
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Options.resources
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.Properties.Resources.resources
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.csproj.GenerateResource.cache
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.AssemblyInfoInputs.cache
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.AssemblyInfo.cs
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.csproj.CoreCompileInputs.cache
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.csproj.CopyComplete
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.dll
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\refint\TankBusters.dll
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.pdb
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\TankBusters.genruntimeconfig.cache
+C:\Users\faiza\Desktop\2nd Semester\TankBusters\TankBusters\obj\Debug\net6.0-windows\ref\TankBusters.dll

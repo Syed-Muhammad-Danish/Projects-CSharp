@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarRentalGUI.BL.Booking" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAAEAAAAAAAAAAAEAAAAAAACABAAAgAUAAABA=</HashCode>
+      <FileName>BL\Booking.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CarRentalGUI.BL.Bus" Collapsed="true">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Bus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.BL.Car" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAEAEgABAJAACACBAAAAAQAABAAAAAQAAAAAAAAI=</HashCode>
+      <FileName>BL\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.BL.Customer" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAIEAAACAAAQAAAAEAA=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.BL.Maintenance" Collapsed="true">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>BL\Maintenance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.BL.MUser" Collapsed="true">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEQAAABEAAAAAAAgCAAAAAgAAEAA=</HashCode>
+      <FileName>BL\MUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.DL.BookingDL" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAEAAAAABACAAAAACAAAAAgQAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>DL\BookingDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.DL.CarDL" Collapsed="true">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABCAAAAAgAAAAAAAiAAAAAABBAAAAABBAEQAAA=</HashCode>
+      <FileName>DL\CarDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.DL.CustomerDL" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAACAIAAAAgBgAACAAAAAAAAAAAAAAAAEgAA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRentalGUI.DL.MUserDL" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAERI=</HashCode>
+      <FileName>DL\MUserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CarRentalGUI.BL.IBooking" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\IBooking.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
