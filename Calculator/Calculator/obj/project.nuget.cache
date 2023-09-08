@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OK9dCF/G57LPm06VFWIEsM70Vh3Oo2mH0uHjumCHAo57cKp8/sVtu/pZDaEFkyS1T1qVOu/88HLf7FAZwbdzMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faiza\\Desktop\\OOP\\extra\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faiza\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\faiza\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\faiza\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
