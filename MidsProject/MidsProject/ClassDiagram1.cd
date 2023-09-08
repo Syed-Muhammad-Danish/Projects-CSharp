@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MidsProject.BL.admin" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MidsProject.BL.bookbl" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIAAAAAAAAAgAgACgAIAqAAACAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>BL\bookbl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MidsProject.BL.librarybl" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAABAAAAEAAQRAAAAAAABQAAQBAABAEAAEgQAAAAA=</HashCode>
+      <FileName>BL\librarybl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MidsProject.BL.userbl" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAQAgEAAAAAAAAEAAAAAAAAwgAABAA=</HashCode>
+      <FileName>BL\userbl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MidsProject.DL.bookdl" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAABAAAAAAIAAAQICAEEA=</HashCode>
+      <FileName>DL\bookdl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MidsProject.DL.librarydl" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAIAAAAAAAoAAAAAEABACAAAAAAAgAAAAA=</HashCode>
+      <FileName>DL\librarydl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MidsProject.DL.userdl" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAYAAAAAAAACAAAQAAAAAAAQAEAARQAAAA=</HashCode>
+      <FileName>DL\userdl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MidsProject.Program" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MidsProject.UI.booksui" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAhCAAAAIABAAAAAAEIAEBIAAEAAA=</HashCode>
+      <FileName>UI\booksui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MidsProject.UI.libraryui" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAIAgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\libraryui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MidsProject.UI.menusui" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAAAAAEAAAABBAAAAAACAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>UI\menusui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MidsProject.UI.userui" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAgEAAAAAAAIKIAAAECAEIIgAAAAAIACEAAAAEAAA=</HashCode>
+      <FileName>UI\userui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

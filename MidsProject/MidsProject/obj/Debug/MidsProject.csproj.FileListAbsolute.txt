@@ -1,0 +1,7 @@
+C:\Users\faiza\Desktop\New folder\MidsProject\MidsProject\obj\Debug\MidsProject.csproj.AssemblyReference.cache
+C:\Users\faiza\Desktop\New folder\MidsProject\MidsProject\obj\Debug\MidsProject.csproj.CoreCompileInputs.cache
+C:\Users\faiza\Desktop\New folder\MidsProject\MidsProject\bin\Debug\MidsProject.exe.config
+C:\Users\faiza\Desktop\New folder\MidsProject\MidsProject\bin\Debug\MidsProject.exe
+C:\Users\faiza\Desktop\New folder\MidsProject\MidsProject\bin\Debug\MidsProject.pdb
+C:\Users\faiza\Desktop\New folder\MidsProject\MidsProject\obj\Debug\MidsProject.exe
+C:\Users\faiza\Desktop\New folder\MidsProject\MidsProject\obj\Debug\MidsProject.pdb
